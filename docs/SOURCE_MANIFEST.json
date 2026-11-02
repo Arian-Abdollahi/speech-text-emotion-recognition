@@ -1,0 +1,37 @@
+{
+  "source_archives": [
+    "Sec3.rar"
+  ],
+  "source_files": [
+    {
+      "file": "Report 3.docx",
+      "bytes": 800024,
+      "sha256": "c253782a3f9a3563d5ed3cb708cf10c123c7af558df65bdf316e02f2dc72509f"
+    },
+    {
+      "file": "Report 3.pdf",
+      "bytes": 1203589,
+      "sha256": "4d8045f14f2a3f5c3fd60b71e74d2490395032912ff8ad0b9bae3a23283786b4"
+    },
+    {
+      "file": "text.ipynb",
+      "bytes": 984052,
+      "sha256": "232aafe0cf95a1b97ec6c6e16efc09cfc28c0cc005c8684ffe0f1f31735b2440"
+    },
+    {
+      "file": "voice.ipynb",
+      "bytes": 275339,
+      "sha256": "7c6a846941c8fbe2767f30be3216f8e7c10c8d6d6a940de884d758e797593142"
+    }
+  ],
+  "report_pages": {
+    "source": 29,
+    "published": 28,
+    "omitted_source_pages_one_based": [
+      1
+    ]
+  },
+  "credentials": "Credential JSON excluded; bot token removed where present. No credential values recorded.",
+  "originals": "voice.ipynb preserved byte-for-byte; text.sanitized.ipynb replaces token assignment and makes bot opt-in.",
+  "adapted_notebooks": "Paths/setup only, no analytical redesign; historical outputs cleared in notebook copies."
+}

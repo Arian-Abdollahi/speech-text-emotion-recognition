@@ -1,0 +1,8 @@
+* text=auto
+*.ipynb text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.pdf binary
+*.png binary
+originals/** -text
+data/patient_split.json -text
